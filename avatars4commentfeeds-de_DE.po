@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: avatars4commentfeeds\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jan <jan.weinschenker@web.de>\n"
+"Language-Team:  <kontakt@weinschenker.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Choose an integer value between 10 and 96 (default: 80)."
+msgstr "W&auml;hle einen ganzzahligen Wert zwischen 10 und 96 (standard: 80)."
+
+msgid "Avatar Size"
+msgstr "Avatar-Gr&ouml;&szlig;e"
+
+msgid "Default Avatar"
+msgstr "Standard Avatar"
+
+msgid "Enter the URL of your default-Avatar. This setting is optional, you may leave it blank."
+msgstr "Gib die URL Deines Standard-Avatars ein. Diese Einstellung ist optional, Du kannst das Feld auch leer lassen."
+
+msgid "Snapshots for Trackbacks"
+msgstr "Snapshots f&uuml;r Trackbacks"
+
+msgid "Show Snapshots for Trackbacks and Pingbacks."
+msgstr "Zeige Snapshots f&uuml;r Trackbacks und Pingbacks."
+
+msgid "Documentation and Support for this Plugin"
+msgstr "Dokumentation und Hilfe f&uuml;r dieses Plugin"
+
+msgid "Can be found at the <a href=\"http://www.weinschenker.name/avatars-for-comment-feeds/\" title=\"go to http://www.weinschenker.name/\">Plugin-Homepage</a>."
+msgstr "Ist auf der <a href=\"http://www.weinschenker.name/avatars-for-comment-feeds/\" title=\"gehe zu http://www.weinschenker.name/\">Plugin-Homepage</a> verf&uuml;gbar."
+

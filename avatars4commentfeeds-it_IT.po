@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: avatars4commentfeeds in italiano\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: Italy\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Choose an integer value between 10 and 96 (default: 80)."
+msgstr "Scegli come valore un numero intero compreso tra 10 e 96 (predefinito: 80)."
+
+msgid "Avatar Size"
+msgstr "Dimensione avatar"
+
+msgid "Default Avatar"
+msgstr "Avatar predefinito"
+
+msgid "Enter the URL of your default-Avatar. This setting is optional, you may leave it blank."
+msgstr "Inserisci l'URL per il tuo avatar predefinito. Questa opzione é facoltativa, potrai anche lasciare vuoto lo spazio."
+
+msgid "Snapshots for Trackbacks"
+msgstr "Snapshot per i Trackback"
+
+msgid "Show Snapshots for Trackbacks and Pingbacks."
+msgstr "Mostra gli Snapshot per i Trackback ed i Pingback."
+
+msgid "Documentation and Support for this Plugin"
+msgstr "Per la documentazione dettagliata ed ulteriori info"
+
+msgid "Can be found at the <a href=\"http://www.weinschenker.name/avatars-for-comment-feeds/\" title=\"go to http://www.weinschenker.name/\">Plugin-Homepage</a>."
+msgstr "consultare la <a href=\"http://www.weinschenker.name/avatars-for-comment-feeds/\" title=\"go to http://www.weinschenker.name/\">Home Page del plugin</a>."
+
